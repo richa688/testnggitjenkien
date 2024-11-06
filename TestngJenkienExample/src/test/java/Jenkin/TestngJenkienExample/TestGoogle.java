@@ -27,7 +27,7 @@ public class TestGoogle {
 				driver.get("https://www.google.com/");
 				
 				WebElement textbox=driver.findElement(By.id("APjFqb"));
-				textbox.sendKeys("Automation Testing and selenium testng ");
+				textbox.sendKeys("Postman ");
 				//textbox.click();
 				//textbox.sendKeys(Keys.ARROW_DOWN);
 				//textbox.sendKeys(Keys.ARROW_DOWN);
